@@ -1,0 +1,11 @@
+{
+  "name": "alu_regex-data-extraction-Igor Ntwali",
+  "version": "1.0.0",
+  "description": "Regex-based data extraction in JavaScript for ALU assignment",
+  "main": "src/extractor.js",
+  "scripts": {
+    "test": "node src/test.js"
+  },
+  "author": "Igor Ntwali",
+  "license": "MIT"
+}
